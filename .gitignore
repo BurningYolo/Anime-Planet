@@ -1,0 +1,9 @@
+# .gitignore
+
+node_modules/
+package-lock.json
+package.json
+info.txt
+
+
+    
