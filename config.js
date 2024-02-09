@@ -5,6 +5,6 @@ module.exports = {
     id_profilename : '#profileName',
     raw_watched_number:'p:contains("Watched") b',
     user_agent:'agent',
-    list_anime_manga:"div.plr-list h3:contains('${listType}') + div.pure-g ul.statList li"
-
+    list_anime_manga: 'div.plr-list h3:contains(\'${listType}\') + div.pure-g ul.statList li',
+    watched_anime_list:'ul.cardGrid li[data-type="anime"] a h3.cardName'
 };
