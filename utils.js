@@ -17,6 +17,7 @@ const extractProfileStats = ($, listType) => {
 };
 
 
+
 // functions works for everylist..... watched , wathcing etc..... idk was too bored to rewrtie the name ICANT
 
 const extractWatchedAnimeList = ($) => {
